@@ -1,0 +1,24 @@
+name: "writing 2 final portfolio"
+output_dir: "."
+navbar:
+  title: "Stone Shi's WRIT2 Final Portfolio"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "WPs revision"
+      icon: fa-map
+      href: WPs.html
+    - text: "WP revision matrix"
+      icon: fa-map
+      href: matrix.html
+    - text: "Metacognitive Reflection"
+      icon: fa-file-alt
+      href: meta.html
+  right:
+    - text: "Github"
+      icon: fa-github
+      href: https://github.com/MycraySH
+output:
+  html_document:
+    theme: sandstone
