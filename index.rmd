@@ -1,0 +1,10 @@
+---
+title: "WRIT2 Final Project"
+subtitle: " Produced by Stone Shi. Instructed by Patricia Morland, Winter 2020, UCSB"
+---
+
+<br />
+
+<center>
+[My two WPs and the revision](WPs.html)
+</center>
